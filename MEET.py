@@ -20,7 +20,7 @@ if __name__ == '__main__':
             em = 10 * int(t[12]) + int(t[13])
             if t[15] == 'P' and eh != 12:
                 eh += 12
-            if t[6] == 'A' and eh == 12:
+            if t[15] == 'A' and eh == 12:
                 eh = 0
             # print(sh, ":", sm, ",", eh, ":", em)
             if sh < ph < eh:
