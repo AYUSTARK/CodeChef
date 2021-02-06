@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/MEET.cpp
+bits/stdc++.h
+-
+string
+-
+vector
+-
+
