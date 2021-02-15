@@ -142,32 +142,113 @@ Cpp/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/build
 .PHONY : Cpp/fast
 
-MEET.obj: MEET.cpp.obj
+ATWNT.obj: ATWNT.cpp.obj
 
-.PHONY : MEET.obj
+.PHONY : ATWNT.obj
 
 # target to build an object file
-MEET.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/MEET.cpp.obj
-.PHONY : MEET.cpp.obj
+ATWNT.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/ATWNT.cpp.obj
+.PHONY : ATWNT.cpp.obj
 
-MEET.i: MEET.cpp.i
+ATWNT.i: ATWNT.cpp.i
 
-.PHONY : MEET.i
+.PHONY : ATWNT.i
 
 # target to preprocess a source file
-MEET.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/MEET.cpp.i
-.PHONY : MEET.cpp.i
+ATWNT.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/ATWNT.cpp.i
+.PHONY : ATWNT.cpp.i
 
-MEET.s: MEET.cpp.s
+ATWNT.s: ATWNT.cpp.s
 
-.PHONY : MEET.s
+.PHONY : ATWNT.s
 
 # target to generate assembly for a file
-MEET.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/MEET.cpp.s
-.PHONY : MEET.cpp.s
+ATWNT.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/ATWNT.cpp.s
+.PHONY : ATWNT.cpp.s
+
+MULGAME.obj: MULGAME.cpp.obj
+
+.PHONY : MULGAME.obj
+
+# target to build an object file
+MULGAME.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/MULGAME.cpp.obj
+.PHONY : MULGAME.cpp.obj
+
+MULGAME.i: MULGAME.cpp.i
+
+.PHONY : MULGAME.i
+
+# target to preprocess a source file
+MULGAME.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/MULGAME.cpp.i
+.PHONY : MULGAME.cpp.i
+
+MULGAME.s: MULGAME.cpp.s
+
+.PHONY : MULGAME.s
+
+# target to generate assembly for a file
+MULGAME.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/MULGAME.cpp.s
+.PHONY : MULGAME.cpp.s
+
+PRIGAME.obj: PRIGAME.cpp.obj
+
+.PHONY : PRIGAME.obj
+
+# target to build an object file
+PRIGAME.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/PRIGAME.cpp.obj
+.PHONY : PRIGAME.cpp.obj
+
+PRIGAME.i: PRIGAME.cpp.i
+
+.PHONY : PRIGAME.i
+
+# target to preprocess a source file
+PRIGAME.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/PRIGAME.cpp.i
+.PHONY : PRIGAME.cpp.i
+
+PRIGAME.s: PRIGAME.cpp.s
+
+.PHONY : PRIGAME.s
+
+# target to generate assembly for a file
+PRIGAME.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/PRIGAME.cpp.s
+.PHONY : PRIGAME.cpp.s
+
+SUMXOR2.obj: SUMXOR2.cpp.obj
+
+.PHONY : SUMXOR2.obj
+
+# target to build an object file
+SUMXOR2.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/SUMXOR2.cpp.obj
+.PHONY : SUMXOR2.cpp.obj
+
+SUMXOR2.i: SUMXOR2.cpp.i
+
+.PHONY : SUMXOR2.i
+
+# target to preprocess a source file
+SUMXOR2.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/SUMXOR2.cpp.i
+.PHONY : SUMXOR2.cpp.i
+
+SUMXOR2.s: SUMXOR2.cpp.s
+
+.PHONY : SUMXOR2.s
+
+# target to generate assembly for a file
+SUMXOR2.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/SUMXOR2.cpp.s
+.PHONY : SUMXOR2.cpp.s
 
 # Help Target
 help:
@@ -178,9 +259,18 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... Cpp
-	@echo ... MEET.obj
-	@echo ... MEET.i
-	@echo ... MEET.s
+	@echo ... ATWNT.obj
+	@echo ... ATWNT.i
+	@echo ... ATWNT.s
+	@echo ... MULGAME.obj
+	@echo ... MULGAME.i
+	@echo ... MULGAME.s
+	@echo ... PRIGAME.obj
+	@echo ... PRIGAME.i
+	@echo ... PRIGAME.s
+	@echo ... SUMXOR2.obj
+	@echo ... SUMXOR2.i
+	@echo ... SUMXOR2.s
 .PHONY : help
 
 

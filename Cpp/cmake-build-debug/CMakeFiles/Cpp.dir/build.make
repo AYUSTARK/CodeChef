@@ -76,32 +76,77 @@ include CMakeFiles/Cpp.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/Cpp.dir/flags.make
 
-CMakeFiles/Cpp.dir/MEET.cpp.obj: CMakeFiles/Cpp.dir/flags.make
-CMakeFiles/Cpp.dir/MEET.cpp.obj: ../MEET.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp.dir/MEET.cpp.obj"
-	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Cpp.dir\MEET.cpp.obj -c C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\MEET.cpp
+CMakeFiles/Cpp.dir/ATWNT.cpp.obj: CMakeFiles/Cpp.dir/flags.make
+CMakeFiles/Cpp.dir/ATWNT.cpp.obj: ../ATWNT.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Cpp.dir/ATWNT.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Cpp.dir\ATWNT.cpp.obj -c C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\ATWNT.cpp
 
-CMakeFiles/Cpp.dir/MEET.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp.dir/MEET.cpp.i"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\MEET.cpp > CMakeFiles\Cpp.dir\MEET.cpp.i
+CMakeFiles/Cpp.dir/ATWNT.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp.dir/ATWNT.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\ATWNT.cpp > CMakeFiles\Cpp.dir\ATWNT.cpp.i
 
-CMakeFiles/Cpp.dir/MEET.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp.dir/MEET.cpp.s"
-	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\MEET.cpp -o CMakeFiles\Cpp.dir\MEET.cpp.s
+CMakeFiles/Cpp.dir/ATWNT.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp.dir/ATWNT.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\ATWNT.cpp -o CMakeFiles\Cpp.dir\ATWNT.cpp.s
+
+CMakeFiles/Cpp.dir/MULGAME.cpp.obj: CMakeFiles/Cpp.dir/flags.make
+CMakeFiles/Cpp.dir/MULGAME.cpp.obj: ../MULGAME.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Cpp.dir/MULGAME.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Cpp.dir\MULGAME.cpp.obj -c C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\MULGAME.cpp
+
+CMakeFiles/Cpp.dir/MULGAME.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp.dir/MULGAME.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\MULGAME.cpp > CMakeFiles\Cpp.dir\MULGAME.cpp.i
+
+CMakeFiles/Cpp.dir/MULGAME.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp.dir/MULGAME.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\MULGAME.cpp -o CMakeFiles\Cpp.dir\MULGAME.cpp.s
+
+CMakeFiles/Cpp.dir/PRIGAME.cpp.obj: CMakeFiles/Cpp.dir/flags.make
+CMakeFiles/Cpp.dir/PRIGAME.cpp.obj: ../PRIGAME.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Cpp.dir/PRIGAME.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Cpp.dir\PRIGAME.cpp.obj -c C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\PRIGAME.cpp
+
+CMakeFiles/Cpp.dir/PRIGAME.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp.dir/PRIGAME.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\PRIGAME.cpp > CMakeFiles\Cpp.dir\PRIGAME.cpp.i
+
+CMakeFiles/Cpp.dir/PRIGAME.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp.dir/PRIGAME.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\PRIGAME.cpp -o CMakeFiles\Cpp.dir\PRIGAME.cpp.s
+
+CMakeFiles/Cpp.dir/SUMXOR2.cpp.obj: CMakeFiles/Cpp.dir/flags.make
+CMakeFiles/Cpp.dir/SUMXOR2.cpp.obj: ../SUMXOR2.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Cpp.dir/SUMXOR2.cpp.obj"
+	C:\MinGW\bin\g++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Cpp.dir\SUMXOR2.cpp.obj -c C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\SUMXOR2.cpp
+
+CMakeFiles/Cpp.dir/SUMXOR2.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Cpp.dir/SUMXOR2.cpp.i"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\SUMXOR2.cpp > CMakeFiles\Cpp.dir\SUMXOR2.cpp.i
+
+CMakeFiles/Cpp.dir/SUMXOR2.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Cpp.dir/SUMXOR2.cpp.s"
+	C:\MinGW\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\SUMXOR2.cpp -o CMakeFiles\Cpp.dir\SUMXOR2.cpp.s
 
 # Object files for target Cpp
 Cpp_OBJECTS = \
-"CMakeFiles/Cpp.dir/MEET.cpp.obj"
+"CMakeFiles/Cpp.dir/ATWNT.cpp.obj" \
+"CMakeFiles/Cpp.dir/MULGAME.cpp.obj" \
+"CMakeFiles/Cpp.dir/PRIGAME.cpp.obj" \
+"CMakeFiles/Cpp.dir/SUMXOR2.cpp.obj"
 
 # External object files for target Cpp
 Cpp_EXTERNAL_OBJECTS =
 
-Cpp.exe: CMakeFiles/Cpp.dir/MEET.cpp.obj
+Cpp.exe: CMakeFiles/Cpp.dir/ATWNT.cpp.obj
+Cpp.exe: CMakeFiles/Cpp.dir/MULGAME.cpp.obj
+Cpp.exe: CMakeFiles/Cpp.dir/PRIGAME.cpp.obj
+Cpp.exe: CMakeFiles/Cpp.dir/SUMXOR2.cpp.obj
 Cpp.exe: CMakeFiles/Cpp.dir/build.make
 Cpp.exe: CMakeFiles/Cpp.dir/linklibs.rsp
 Cpp.exe: CMakeFiles/Cpp.dir/objects1.rsp
 Cpp.exe: CMakeFiles/Cpp.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable Cpp.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable Cpp.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Cpp.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

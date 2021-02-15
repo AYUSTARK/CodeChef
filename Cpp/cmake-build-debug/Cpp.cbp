@@ -82,7 +82,16 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/MEET.cpp">
+		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/ATWNT.cpp">
+			<Option target="Cpp"/>
+		</Unit>
+		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/MULGAME.cpp">
+			<Option target="Cpp"/>
+		</Unit>
+		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/PRIGAME.cpp">
+			<Option target="Cpp"/>
+		</Unit>
+		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/SUMXOR2.cpp">
 			<Option target="Cpp"/>
 		</Unit>
 		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/CMakeLists.txt">

@@ -1,5 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Cpp.dir/MEET.cpp.obj"
+  "CMakeFiles/Cpp.dir/ATWNT.cpp.obj"
+  "CMakeFiles/Cpp.dir/MULGAME.cpp.obj"
+  "CMakeFiles/Cpp.dir/PRIGAME.cpp.obj"
+  "CMakeFiles/Cpp.dir/SUMXOR2.cpp.obj"
   "Cpp.exe"
   "Cpp.exe.manifest"
   "Cpp.pdb"
