@@ -29,7 +29,8 @@ const double PI = acosl(-1.0);
 void ensure_base(int p) {
     if (p <= lim) return;
     rev.resize(1 << p);
-    for (int i = 0; i < (1 << p); i++) rev[i] = (rev[i >> 1] >> 1) + ((i & 1) << (p - 1));
+    for (int i = 0; i < (1 << p); i++)
+        rev[i] = (rev[i >> 1] >> 1) + ((i & 1) << (p - 1));
     roots.resize(1 << p);
     while (lim < p) {
         double angle = 2 * PI / (1 << (lim + 1));
