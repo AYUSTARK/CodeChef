@@ -3,6 +3,8 @@
 
 CMakeFiles/Cpp.dir/ATWNT.cpp.obj: ../ATWNT.cpp
 
+CMakeFiles/Cpp.dir/COLGLF4.cpp.obj: ../COLGLF4.cpp
+
 CMakeFiles/Cpp.dir/MULGAME.cpp.obj: ../MULGAME.cpp
 
 CMakeFiles/Cpp.dir/PRIGAME.cpp.obj: ../PRIGAME.cpp

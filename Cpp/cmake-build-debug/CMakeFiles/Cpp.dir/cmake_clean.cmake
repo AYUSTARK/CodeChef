@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/Cpp.dir/ATWNT.cpp.obj"
+  "CMakeFiles/Cpp.dir/COLGLF4.cpp.obj"
   "CMakeFiles/Cpp.dir/MULGAME.cpp.obj"
+  "CMakeFiles/Cpp.dir/PAPARAZI.cpp.obj"
   "CMakeFiles/Cpp.dir/PRIGAME.cpp.obj"
   "CMakeFiles/Cpp.dir/SUMXOR2.cpp.obj"
   "Cpp.exe"

@@ -169,6 +169,33 @@ ATWNT.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/ATWNT.cpp.s
 .PHONY : ATWNT.cpp.s
 
+COLGLF4.obj: COLGLF4.cpp.obj
+
+.PHONY : COLGLF4.obj
+
+# target to build an object file
+COLGLF4.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/COLGLF4.cpp.obj
+.PHONY : COLGLF4.cpp.obj
+
+COLGLF4.i: COLGLF4.cpp.i
+
+.PHONY : COLGLF4.i
+
+# target to preprocess a source file
+COLGLF4.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/COLGLF4.cpp.i
+.PHONY : COLGLF4.cpp.i
+
+COLGLF4.s: COLGLF4.cpp.s
+
+.PHONY : COLGLF4.s
+
+# target to generate assembly for a file
+COLGLF4.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/COLGLF4.cpp.s
+.PHONY : COLGLF4.cpp.s
+
 MULGAME.obj: MULGAME.cpp.obj
 
 .PHONY : MULGAME.obj
@@ -195,6 +222,33 @@ MULGAME.s: MULGAME.cpp.s
 MULGAME.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/MULGAME.cpp.s
 .PHONY : MULGAME.cpp.s
+
+PAPARAZI.obj: PAPARAZI.cpp.obj
+
+.PHONY : PAPARAZI.obj
+
+# target to build an object file
+PAPARAZI.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/PAPARAZI.cpp.obj
+.PHONY : PAPARAZI.cpp.obj
+
+PAPARAZI.i: PAPARAZI.cpp.i
+
+.PHONY : PAPARAZI.i
+
+# target to preprocess a source file
+PAPARAZI.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/PAPARAZI.cpp.i
+.PHONY : PAPARAZI.cpp.i
+
+PAPARAZI.s: PAPARAZI.cpp.s
+
+.PHONY : PAPARAZI.s
+
+# target to generate assembly for a file
+PAPARAZI.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/PAPARAZI.cpp.s
+.PHONY : PAPARAZI.cpp.s
 
 PRIGAME.obj: PRIGAME.cpp.obj
 
@@ -262,9 +316,15 @@ help:
 	@echo ... ATWNT.obj
 	@echo ... ATWNT.i
 	@echo ... ATWNT.s
+	@echo ... COLGLF4.obj
+	@echo ... COLGLF4.i
+	@echo ... COLGLF4.s
 	@echo ... MULGAME.obj
 	@echo ... MULGAME.i
 	@echo ... MULGAME.s
+	@echo ... PAPARAZI.obj
+	@echo ... PAPARAZI.i
+	@echo ... PAPARAZI.s
 	@echo ... PRIGAME.obj
 	@echo ... PRIGAME.i
 	@echo ... PRIGAME.s
