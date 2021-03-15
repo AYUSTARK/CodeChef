@@ -88,6 +88,12 @@
 		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/COLGLF4.cpp">
 			<Option target="Cpp"/>
 		</Unit>
+		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/CONSADD.cpp">
+			<Option target="Cpp"/>
+		</Unit>
+		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/MAXTOPO.cpp">
+			<Option target="Cpp"/>
+		</Unit>
 		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/MULGAME.cpp">
 			<Option target="Cpp"/>
 		</Unit>
@@ -98,6 +104,9 @@
 			<Option target="Cpp"/>
 		</Unit>
 		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/SUMXOR2.cpp">
+			<Option target="Cpp"/>
+		</Unit>
+		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/WIREL.cpp">
 			<Option target="Cpp"/>
 		</Unit>
 		<Unit filename="C:/Users/KIIT/Desktop/Programming/CodeChef/Cpp/CMakeLists.txt">

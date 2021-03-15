@@ -58,10 +58,10 @@ cmake_force:
 SHELL = cmd.exe
 
 # The CMake executable.
-CMAKE_COMMAND = C:\Users\KIIT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.6682.181\bin\cmake\win\bin\cmake.exe
+CMAKE_COMMAND = C:\Users\KIIT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe
 
 # The command to remove a file.
-RM = C:\Users\KIIT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.6682.181\bin\cmake\win\bin\cmake.exe -E rm -f
+RM = C:\Users\KIIT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E rm -f
 
 # Escaping for special characters.
 EQUALS = =
@@ -78,7 +78,7 @@ CMAKE_BINARY_DIR = C:\Users\KIIT\Desktop\Programming\CodeChef\Cpp\cmake-build-de
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
-	C:\Users\KIIT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.6682.181\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
+	C:\Users\KIIT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe -E echo "No interactive CMake dialog available."
 .PHONY : edit_cache
 
 # Special rule for the target edit_cache
@@ -89,7 +89,7 @@ edit_cache/fast: edit_cache
 # Special rule for the target rebuild_cache
 rebuild_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	C:\Users\KIIT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.6682.181\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+	C:\Users\KIIT\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
 .PHONY : rebuild_cache
 
 # Special rule for the target rebuild_cache
@@ -195,6 +195,60 @@ COLGLF4.s: COLGLF4.cpp.s
 COLGLF4.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/COLGLF4.cpp.s
 .PHONY : COLGLF4.cpp.s
+
+CONSADD.obj: CONSADD.cpp.obj
+
+.PHONY : CONSADD.obj
+
+# target to build an object file
+CONSADD.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/CONSADD.cpp.obj
+.PHONY : CONSADD.cpp.obj
+
+CONSADD.i: CONSADD.cpp.i
+
+.PHONY : CONSADD.i
+
+# target to preprocess a source file
+CONSADD.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/CONSADD.cpp.i
+.PHONY : CONSADD.cpp.i
+
+CONSADD.s: CONSADD.cpp.s
+
+.PHONY : CONSADD.s
+
+# target to generate assembly for a file
+CONSADD.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/CONSADD.cpp.s
+.PHONY : CONSADD.cpp.s
+
+MAXTOPO.obj: MAXTOPO.cpp.obj
+
+.PHONY : MAXTOPO.obj
+
+# target to build an object file
+MAXTOPO.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/MAXTOPO.cpp.obj
+.PHONY : MAXTOPO.cpp.obj
+
+MAXTOPO.i: MAXTOPO.cpp.i
+
+.PHONY : MAXTOPO.i
+
+# target to preprocess a source file
+MAXTOPO.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/MAXTOPO.cpp.i
+.PHONY : MAXTOPO.cpp.i
+
+MAXTOPO.s: MAXTOPO.cpp.s
+
+.PHONY : MAXTOPO.s
+
+# target to generate assembly for a file
+MAXTOPO.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/MAXTOPO.cpp.s
+.PHONY : MAXTOPO.cpp.s
 
 MULGAME.obj: MULGAME.cpp.obj
 
@@ -304,6 +358,33 @@ SUMXOR2.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/SUMXOR2.cpp.s
 .PHONY : SUMXOR2.cpp.s
 
+WIREL.obj: WIREL.cpp.obj
+
+.PHONY : WIREL.obj
+
+# target to build an object file
+WIREL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/WIREL.cpp.obj
+.PHONY : WIREL.cpp.obj
+
+WIREL.i: WIREL.cpp.i
+
+.PHONY : WIREL.i
+
+# target to preprocess a source file
+WIREL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/WIREL.cpp.i
+.PHONY : WIREL.cpp.i
+
+WIREL.s: WIREL.cpp.s
+
+.PHONY : WIREL.s
+
+# target to generate assembly for a file
+WIREL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Cpp.dir\build.make CMakeFiles/Cpp.dir/WIREL.cpp.s
+.PHONY : WIREL.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -319,6 +400,12 @@ help:
 	@echo ... COLGLF4.obj
 	@echo ... COLGLF4.i
 	@echo ... COLGLF4.s
+	@echo ... CONSADD.obj
+	@echo ... CONSADD.i
+	@echo ... CONSADD.s
+	@echo ... MAXTOPO.obj
+	@echo ... MAXTOPO.i
+	@echo ... MAXTOPO.s
 	@echo ... MULGAME.obj
 	@echo ... MULGAME.i
 	@echo ... MULGAME.s
@@ -331,6 +418,9 @@ help:
 	@echo ... SUMXOR2.obj
 	@echo ... SUMXOR2.i
 	@echo ... SUMXOR2.s
+	@echo ... WIREL.obj
+	@echo ... WIREL.i
+	@echo ... WIREL.s
 .PHONY : help
 
 
